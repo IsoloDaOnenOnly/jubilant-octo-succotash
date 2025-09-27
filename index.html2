@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>https://isolodaonenonly.wordpress.com</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 40px 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.2em;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    footer {
+      background: #222;
+      color: #ccc;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>https://isolodaonenonly.wordpress.com 🚀</h1>
+    <p>This is my free website powered by GitHub Pages & wordpress</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello! I built this website for free using <strong>GitHub Pages</strong> and a free domain from <strong>Freenom</strong>. Pretty cool, right?</p>
+    
+    <h2>Projects</h2>
+    <ul>
+      <li>🌐 Project 1 – My first web app</li>
+      <li>📱 Project 2 – Mobile app idea</li>
+      <li>🎨 Project 3 – Creative design</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>You can reach me at: <a href="mailto:youremail@example.com">isolobenjamin@outlook.com</a></p>
+  </section>
+
+  <footer>
+    <p>Made with ❤️ using GitHub Pages</p>
+  </footer>
+</body>
+</html>
