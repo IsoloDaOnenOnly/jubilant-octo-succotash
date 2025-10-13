@@ -62,4 +62,5 @@ jobs:
           app-name: 'WeareAXIOGATHERIS'
           slot-name: 'Production'
           package: .
+
           
